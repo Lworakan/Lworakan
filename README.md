@@ -2,7 +2,7 @@
 
 <div align="center">
   
-**Multi-Award Winning AI Engineer | Government Collaboration Researcher | National Robotics Champion**
+**ML Engineer | Government Collaboration Researcher **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/worakan-lasudee-a71939229)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:worakan.lasudee@gmail.com)
@@ -206,5 +206,5 @@ I'm always interested in discussing cutting-edge AI/robotics projects, research 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Lworakan&color=blueviolet&style=for-the-badge">
   
-  <i>⭐️ From <a href="https://github.com/Lworakan">Worakan Lasudee</a> - Building intelligent systems that matter</i>
+  <i>⭐️ From <a href="https://github.com/Lworakan">Worakan Lasudee</a> - It always seems impossible until it's done.</i>
 </div>
