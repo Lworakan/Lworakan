@@ -165,9 +165,6 @@ Multi-label astronomical signal classification using Vision Transformers on Thai
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lworakan&theme=tokyonight&hide_border=true&layout=compact&hide=jupyter%20notebook,makefile,html&langs_count=8&cache_seconds=1800"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Lworakan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
 
 > **Note:** Primary expertise in Python (PyTorch, TensorFlow), Computer Vision, and Deep Learning. C/C++ experience from robotics and embedded systems projects.
 
