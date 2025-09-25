@@ -162,7 +162,7 @@ Multi-label astronomical signal classification using Vision Transformers on Thai
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lworakan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lworakan&theme=tokyonight&hide_border=true&layout=compact&hide=assembly,jupyter%20notebook,makefile,html,css,cmake,freemarker&langs_count=6&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lworakan&theme=tokyonight&hide_border=true&layout=compact&hide=assembly,makefile,html,freemarker&langs_count=6&cache_seconds=1800"/>
 </div>
 
 > **Note:** Primary expertise in Python (PyTorch, TensorFlow), Computer Vision, and Deep Learning. C/C++ experience from robotics and embedded systems projects.
