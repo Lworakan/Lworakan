@@ -14,9 +14,9 @@
 
 ## 🚀 About Me
 
-I'm a **Robotics & AI Engineer** from the **Institute of Field Robotics (FIBO), KMUTT** with proven expertise in building production-ready AI systems and leading high-impact technical projects. My work spans government collaborations, national championships, and award-winning innovations in AI/ML, computer vision, and robotics automation.
+I'm a **Robotics & AI Engineer** from the **Institute of Field Robotics (FIBO), KMUTT** with proven expertise in building production-ready AI systems and leading high-impact technical projects. 
 
-- 🏆 **National Achievements:** TED Youth Startup Winner | HACKaThailand Champion | GISTDA SchoolSat Winner | National Robotics Finalist
+- 🏆 **National Achievements:** HACKaThailand Champion | GISTDA SchoolSat Winner | National Robotics Finalist
 - 🤝 **Government Impact:** FDA Thailand & WHO AI Compliance System | National Citizen Feedback Platform serving millions
 - 🎓 **Academic Excellence:** KMUTT Innovation Scholarship Recipient | GPAX 3.35 | Teaching Assistant for 3 courses
 - 💼 **Industry Experience:** CPF AI Development | Government Digital Transformation | Automotive AI Diagnostics
