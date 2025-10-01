@@ -27,7 +27,7 @@
  • 🤝 Government impact: FDA Thailand & WHO AI compliance • National citizen feedback platform
  • 🔬 Research focus: Computer Vision, Deep Learning, NLP, Autonomous Robotics
  • 🌏 Based in Bangkok/Saraburi, Thailand — open to relocation
- • 👾 Discord: XEON #7806
+ • 👾 Discord: iampeemai #1127
  • ✉ Email: worakan.lasudee@gmail.com
 
 📊 GitHub Stats
