@@ -30,14 +30,18 @@
  • 👾 Discord: iampeemai #1127
  • ✉ Email: worakan.lasudee@gmail.com
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Lworakan&theme=dark&hide_border=false&include_all_commits=false&count_private=true">
+  <!-- GitHub Readme Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Lworakan&theme=dark&hide_border=false&count_private=true&show_icons=true&cache_seconds=1800" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lworakan&theme=dark&hide_border=false">
+  <!-- Streak Stats (updated domain) -->
+  <img src="https://streak-stats.demolab.com/?user=Lworakan&theme=dark&hide_border=false" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lworakan&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
+  <!-- Top Languages (simplified params + caching) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lworakan&theme=dark&hide_border=false&layout=compact&cache_seconds=1800" />
 
 </div>
+
