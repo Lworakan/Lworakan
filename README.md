@@ -40,8 +40,6 @@
   <!-- Streak Stats (updated domain) -->
   <img src="https://streak-stats.demolab.com/?user=Lworakan&theme=dark&hide_border=false" />
 
-  <!-- Top Languages (simplified params + caching) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lworakan&theme=dark&hide_border=false&layout=compact&cache_seconds=1800" />
 
 </div>
 
